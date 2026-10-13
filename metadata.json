@@ -1,0 +1,6 @@
+{
+  "name": "AttendEase",
+  "description": "Institutional attendance management system featuring QR code attendance, analytics, defaulter tracking, timetable scheduling, leave management, and multi-role portals for Admins, Teachers, Students, and Parents.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
